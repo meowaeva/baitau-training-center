@@ -1,7 +1,11 @@
 Baitau Partners Training Center Website
+
 This project is a full-stack web application developed for LLP “Baitau Partners”, a training center that provides professional corporate training and consulting services.
+
 The website is focused on presenting training programs, collecting course requests, managing applications, and displaying active or completed trainings for registered clients.
+
 Project Overview
+
 The main purpose of this project is to create a modern and functional website for a corporate training center. The system allows users to browse available services, submit course requests, register an account, log in, and view their active trainings.
 Administrators can access a protected dashboard, view submitted course requests, and update the status of each request.
 Main Features
